@@ -35,7 +35,7 @@ alembic downgrate version_name
 
 
 
-Commands to Follow,
+Steps to Follow,
 
 1. alembic init alembic
 2. Edit alembic.ini file with proper database connection url
