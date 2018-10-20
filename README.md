@@ -35,5 +35,11 @@ alembic downgrate version_name
 
 
 
+Commands to Follow,
 
+1. alembic init alembic
+2. Edit alembic.ini file with proper database connection url
+3. alembic revision -m "create student table"
+4. write code in to new generated file
+5. alembic upgrade head 
 
